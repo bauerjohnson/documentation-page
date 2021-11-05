@@ -10,7 +10,15 @@
 body {
     background-color: whitesmoke;
    
+   
     
+}
+
+.container {
+  height: 10%;
+  width: auto;
+  background-color: black;
+  padding: 20px 0;
 }
 
 
@@ -59,6 +67,7 @@ position: fixed;
 
 
 #main-doc  {
+ 
   width: 990px;
   margin: 0 0 0 300px;
 }
@@ -90,7 +99,7 @@ img {
   #main-doc  {
     position: relative;
     width: 100%;
-   margin: 60px 0 0 0;
+   margin: 25px 0 0 0;
    padding: 0 20px 0 20px;
   }
 
