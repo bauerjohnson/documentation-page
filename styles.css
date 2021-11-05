@@ -84,6 +84,7 @@ p {
 
 img {
   width: 20%;
+  padding-bottom: 50px;
 }
 
 
@@ -105,5 +106,10 @@ img {
 
   p {
     font-size: 14px;
+  }
+
+  img {
+    width: 50%;
+    padding-bottom: 20px;
   }
 }
